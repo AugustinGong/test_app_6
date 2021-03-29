@@ -1,1 +1,1 @@
-Complet Ruby on Rails Developper
+First Test repo on the Complet Ruby on Rails Developper by Augustin
